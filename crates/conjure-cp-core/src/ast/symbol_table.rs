@@ -3,7 +3,7 @@
 //! See the item documentation for [`SymbolTable`] for more details.
 
 use crate::bug;
-use crate::representation::{Representation, get_repr_rule};
+// use crate::representation::{Representation, get_repr_rule};
 
 use super::comprehension::Comprehension;
 use super::serde::RcRefCellAsId;
